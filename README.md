@@ -1,2 +1,2 @@
 # Forestborn
-Sound Effects and Beckground Music Added: https://esdunlap.github.io/Forestborn-Complete/
+Sound Effects and Background Music Added: https://esdunlap.github.io/Forestborn-Complete/
